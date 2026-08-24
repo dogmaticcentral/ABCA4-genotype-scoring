@@ -1,0 +1,2870 @@
+{
+  "165": {
+    "score": 0.14710534640936412,
+    "score_w_dosage_compensation": 0.2847410922729534,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      }
+    }
+  },
+  "211": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "649": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          255
+        ]
+      }
+    }
+  },
+  "63": {
+    "score": 0.13162329151844224,
+    "score_w_dosage_compensation": 0.24489795918367346,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "729": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          350
+        ]
+      }
+    }
+  },
+  "1045": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "808": {
+        "method": "early_stop",
+        "protein": [
+          "Ser1071CysfsTer14"
+        ]
+      }
+    }
+  },
+  "607": {
+    "score": 0.025955921122007803,
+    "score_w_dosage_compensation": 0.037104201997361974,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "813": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          282
+        ]
+      }
+    }
+  },
+  "1176": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.01834862385321101,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "817": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          286
+        ]
+      }
+    }
+  },
+  "294": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "831": {
+        "method": "early_stop",
+        "protein": [
+          "Arg681Ter"
+        ]
+      }
+    }
+  },
+  "1101": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "840": {
+        "method": "early_stop",
+        "protein": [
+          "Asn96ThrfsTer19"
+        ]
+      }
+    }
+  },
+  "193": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "847": {}
+    }
+  },
+  "1137": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.01834862385321101,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "865": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          281
+        ]
+      }
+    }
+  },
+  "287": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "866": {
+        "method": "early_stop",
+        "protein": [
+          "Val1973TerfsTer1"
+        ]
+      }
+    }
+  },
+  "1061": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "908": {
+        "method": "early_stop",
+        "protein": [
+          "Tyr362Ter"
+        ]
+      }
+    }
+  },
+  "1199": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "933": {
+        "method": "early_stop",
+        "protein": [
+          "Arg2040Ter"
+        ]
+      }
+    }
+  },
+  "647": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1092": {
+        "method": "early_stop",
+        "protein": [
+          "Gln2220Ter"
+        ]
+      }
+    }
+  },
+  "1087": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1339": {}
+    }
+  },
+  "1039": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1343": {}
+    }
+  },
+  "1096": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1346": {}
+    }
+  },
+  "1192": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1351": {
+        "method": "early_stop",
+        "protein": [
+          "Asp342GlyfsTer6"
+        ]
+      }
+    }
+  },
+  "1079": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1370": {
+        "method": "early_stop",
+        "protein": [
+          "Ile584AsnfsTer65"
+        ]
+      }
+    }
+  },
+  "1150": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1381": {}
+    }
+  },
+  "1108": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1384": {}
+    }
+  },
+  "1118": {
+    "score": 0.12181799008752506,
+    "score_w_dosage_compensation": 0.238203809422813,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1391": {
+        "method": "characterized_allele_wo_common_variants",
+        "exp_characterization_ids": [
+          275
+        ],
+        "allele_id": 660
+      }
+    }
+  },
+  "1119": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1392": {
+        "method": "early_stop",
+        "protein": [
+          "Arg572Ter"
+        ]
+      }
+    }
+  },
+  "1132": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1400": {
+        "method": "early_stop",
+        "protein": [
+          "Ser84ThrfsTer16"
+        ]
+      }
+    }
+  },
+  "1167": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "643": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          338
+        ]
+      },
+      "1410": {
+        "method": "early_stop",
+        "protein": [
+          "Glu328Ter"
+        ]
+      }
+    }
+  },
+  "1116": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "645": {},
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      }
+    }
+  },
+  "1051": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "645": {},
+      "1352": {
+        "method": "early_stop",
+        "protein": [
+          "Trp589Ter"
+        ]
+      }
+    }
+  },
+  "1042": {
+    "score": 0.27586206896551724,
+    "score_w_dosage_compensation": 0.5517241379310345,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      }
+    }
+  },
+  "1120": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "653": {}
+    }
+  },
+  "1052": {
+    "score": 0.25057471264367814,
+    "score_w_dosage_compensation": 0.29729203195012666,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "660": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          275
+        ]
+      }
+    }
+  },
+  "1140": {
+    "score": 1,
+    "score_w_dosage_compensation": 1,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      }
+    }
+  },
+  "1025": {
+    "score": 0.14770114942528736,
+    "score_w_dosage_compensation": 0.24447086801426873,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "714": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          273
+        ]
+      }
+    }
+  },
+  "1028": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "716": {
+        "method": "early_stop",
+        "protein": [
+          "Arg408Ter"
+        ]
+      }
+    }
+  },
+  "87": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.27586206896551724,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "731": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          271
+        ]
+      }
+    }
+  },
+  "1145": {
+    "score": 0.1503448275862069,
+    "score_w_dosage_compensation": 0.2775596816976128,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      }
+    }
+  },
+  "571": {
+    "score": 0.5379310344827586,
+    "score_w_dosage_compensation": 0.8432432432432433,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "742": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          261
+        ]
+      }
+    }
+  },
+  "1152": {
+    "score": 0.43724137931034485,
+    "score_w_dosage_compensation": 0.4928902821316614,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "745": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          279
+        ]
+      }
+    }
+  },
+  "1054": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "751": {}
+    }
+  },
+  "1131": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "807": {
+        "method": "early_stop",
+        "protein": [
+          "Gln2187Ter"
+        ]
+      }
+    }
+  },
+  "1098": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "808": {
+        "method": "early_stop",
+        "protein": [
+          "Ser1071CysfsTer14"
+        ]
+      }
+    }
+  },
+  "148": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.27586206896551724,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "817": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          286
+        ]
+      }
+    }
+  },
+  "1063": {
+    "score": 0.36793103448275866,
+    "score_w_dosage_compensation": 0.5767567567567567,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "834": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          416
+        ]
+      }
+    }
+  },
+  "1151": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "835": {
+        "method": "early_stop",
+        "protein": [
+          "Arg152Ter"
+        ]
+      }
+    }
+  },
+  "1169": {
+    "score": 0.9689169499757164,
+    "score_w_dosage_compensation": 1,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "841": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          441
+        ]
+      }
+    }
+  },
+  "1133": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "842": {
+        "method": "early_stop",
+        "protein": [
+          "Glu1574Ter"
+        ]
+      }
+    }
+  },
+  "1149": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "858": {
+        "method": "early_stop",
+        "protein": [
+          "Tyr245Ter"
+        ]
+      }
+    }
+  },
+  "596": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.27586206896551724,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "865": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          281
+        ]
+      }
+    }
+  },
+  "1181": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "871": {
+        "method": "related_allele_no_mrna",
+        "exp_characterization_ids": [
+          255
+        ],
+        "allele_id": 649
+      }
+    }
+  },
+  "1134": {
+    "score": 0.20793103448275863,
+    "score_w_dosage_compensation": 0.32594594594594595,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "977": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          423
+        ]
+      }
+    }
+  },
+  "1094": {
+    "score": 0.21793103448275863,
+    "score_w_dosage_compensation": 0.3416216216216216,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1103": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          240
+        ]
+      }
+    }
+  },
+  "1157": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1133": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          241
+        ]
+      }
+    }
+  },
+  "1026": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1332": {}
+    }
+  },
+  "1031": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1333": {}
+    }
+  },
+  "1034": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1338": {
+        "method": "early_stop",
+        "protein": [
+          "Leu163HisfsTer18"
+        ]
+      }
+    }
+  },
+  "1065": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1339": {}
+    }
+  },
+  "1179": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1340": {
+        "method": "early_stop",
+        "protein": [
+          "Ile975LeufsTer47"
+        ]
+      }
+    }
+  },
+  "1040": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1344": {}
+    }
+  },
+  "1041": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1345": {
+        "method": "early_stop",
+        "protein": [
+          "Glu1330Ter"
+        ]
+      }
+    }
+  },
+  "1056": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1355": {}
+    }
+  },
+  "1162": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1362": {}
+    }
+  },
+  "1070": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1363": {
+        "method": "early_stop",
+        "protein": [
+          "Val1887TrpfsTer6"
+        ]
+      }
+    }
+  },
+  "1086": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1365": {}
+    }
+  },
+  "1092": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1375": {}
+    }
+  },
+  "1095": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1377": {}
+    }
+  },
+  "1110": {
+    "score": 0.25057471264367814,
+    "score_w_dosage_compensation": 0.29729203195012666,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1385": {
+        "method": "individual_variants",
+        "variants": [
+          {
+            "variant_id": 652,
+            "characterized_in_allele_id": 660,
+            "exp_characterization_ids": [
+              275
+            ]
+          },
+          {
+            "variant_id": 1364
+          }
+        ]
+      }
+    }
+  },
+  "1113": {
+    "score": 0.25057471264367814,
+    "score_w_dosage_compensation": 0.29729203195012666,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1387": {
+        "method": "characterized_allele_wo_common_variants",
+        "exp_characterization_ids": [
+          275
+        ],
+        "allele_id": 660
+      }
+    }
+  },
+  "1117": {
+    "score": 0.27586206896551724,
+    "score_w_dosage_compensation": 0.27586206896551724,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1390": {
+        "method": "individual_variants",
+        "variants": [
+          {
+            "variant_id": 639,
+            "characterized_in_allele_id": 647,
+            "exp_characterization_ids": [
+              276
+            ]
+          },
+          {
+            "variant_id": 1310
+          }
+        ]
+      }
+    }
+  },
+  "1121": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1393": {}
+    }
+  },
+  "1196": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1405": {}
+    }
+  },
+  "1161": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1406": {}
+    }
+  },
+  "1165": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1409": {}
+    }
+  },
+  "1198": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1411": {
+        "method": "early_stop",
+        "protein": [
+          "Leu1627ArgfsTer35"
+        ]
+      }
+    }
+  },
+  "1170": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1412": {
+        "method": "early_stop",
+        "protein": [
+          "Gln2104Ter"
+        ]
+      }
+    }
+  },
+  "1184": {
+    "score": 0.13793103448275862,
+    "score_w_dosage_compensation": 0.2162162162162162,
+    "scoring_source": {
+      "647": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          276
+        ]
+      },
+      "1414": {
+        "method": "early_stop",
+        "protein": [
+          "Ser1071CysfsTer14"
+        ]
+      }
+    }
+  },
+  "309": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "649": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          255
+        ]
+      }
+    }
+  },
+  "1185": {
+    "score": 0.9425287356321839,
+    "score_w_dosage_compensation": 0.9704142011834318,
+    "scoring_source": {
+      "649": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          255
+        ]
+      },
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      }
+    }
+  },
+  "96": {
+    "score": 0.012413793103448277,
+    "score_w_dosage_compensation": 0.024269662921348314,
+    "scoring_source": {
+      "649": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          255
+        ]
+      },
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      }
+    }
+  },
+  "1194": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "653": {},
+      "1362": {}
+    }
+  },
+  "1155": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "653": {},
+      "1381": {}
+    }
+  },
+  "1106": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "653": {},
+      "1383": {
+        "method": "early_stop",
+        "protein": [
+          "Trp2110Ter"
+        ]
+      }
+    }
+  },
+  "1115": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "653": {},
+      "1389": {}
+    }
+  },
+  "1148": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "655": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          287
+        ]
+      },
+      "775": {}
+    }
+  },
+  "1183": {
+    "score": 0.5771264367816091,
+    "score_w_dosage_compensation": 1,
+    "scoring_source": {
+      "655": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          287
+        ]
+      },
+      "813": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          282
+        ]
+      }
+    }
+  },
+  "1142": {
+    "score": 0.5603448275862069,
+    "score_w_dosage_compensation": 0.6414473684210525,
+    "scoring_source": {
+      "655": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          287
+        ]
+      },
+      "866": {
+        "method": "early_stop",
+        "protein": [
+          "Val1973TerfsTer1"
+        ]
+      }
+    }
+  },
+  "1160": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "655": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          287
+        ]
+      },
+      "1270": {}
+    }
+  },
+  "1125": {
+    "score": 0.5603448275862069,
+    "score_w_dosage_compensation": 0.6414473684210525,
+    "scoring_source": {
+      "655": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          287
+        ]
+      },
+      "1395": {
+        "method": "early_stop",
+        "protein": [
+          "Gly963AlafsTer14"
+        ]
+      }
+    }
+  },
+  "1048": {
+    "score": 0.012413793103448277,
+    "score_w_dosage_compensation": 0.024269662921348314,
+    "scoring_source": {
+      "657": {
+        "method": "early_stop",
+        "protein": [
+          "Gln1513ProfsTer42"
+        ]
+      },
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      }
+    }
+  },
+  "1126": {
+    "score": 0.2252873563218391,
+    "score_w_dosage_compensation": 0.4505747126436782,
+    "scoring_source": {
+      "660": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          275
+        ]
+      }
+    }
+  },
+  "651": {
+    "score": 0.23509265775275628,
+    "score_w_dosage_compensation": 0.3604684023656478,
+    "scoring_source": {
+      "660": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          275
+        ]
+      },
+      "729": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          350
+        ]
+      }
+    }
+  },
+  "1201": {
+    "score": 0.9425287356321839,
+    "score_w_dosage_compensation": 0.9704142011834318,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "768": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          224
+        ]
+      }
+    }
+  },
+  "1071": {
+    "score": 0.9425287356321839,
+    "score_w_dosage_compensation": 0.9704142011834318,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "808": {
+        "method": "early_stop",
+        "protein": [
+          "Ser1071CysfsTer14"
+        ]
+      }
+    }
+  },
+  "1090": {
+    "score": 0.9425287356321839,
+    "score_w_dosage_compensation": 1,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "817": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          286
+        ]
+      }
+    }
+  },
+  "1057": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "1356": {}
+    }
+  },
+  "1058": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "1357": {}
+    }
+  },
+  "1089": {
+    "score": 0.9425287356321839,
+    "score_w_dosage_compensation": 0.9704142011834318,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "1374": {
+        "method": "early_stop",
+        "protein": [
+          "Asn1206MetfsTer3"
+        ]
+      }
+    }
+  },
+  "1178": {
+    "score": 0.9425287356321839,
+    "score_w_dosage_compensation": 0.9704142011834318,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "1414": {
+        "method": "early_stop",
+        "protein": [
+          "Ser1071CysfsTer14"
+        ]
+      }
+    }
+  },
+  "1186": {
+    "score": 0.9425287356321839,
+    "score_w_dosage_compensation": 0.9704142011834318,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "1418": {
+        "method": "early_stop",
+        "protein": [
+          "Asn1206MetfsTer3"
+        ]
+      }
+    }
+  },
+  "1190": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "662": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          288,
+          326
+        ]
+      },
+      "1419": {}
+    }
+  },
+  "1030": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "667": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          272
+        ]
+      },
+      "1335": {}
+    }
+  },
+  "1075": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "667": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          272
+        ]
+      },
+      "1368": {}
+    }
+  },
+  "1191": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "674": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          310
+        ]
+      },
+      "1420": {}
+    }
+  },
+  "1147": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "684": {},
+      "1306": {}
+    }
+  },
+  "1029": {
+    "score": 0.01632183908045977,
+    "score_w_dosage_compensation": 0.03191011235955056,
+    "scoring_source": {
+      "698": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          268
+        ]
+      },
+      "1334": {
+        "method": "early_stop",
+        "protein": [
+          "Leu464Ter"
+        ]
+      }
+    }
+  },
+  "1060": {
+    "score": 0.35014791237595955,
+    "score_w_dosage_compensation": 0.7002958247519191,
+    "scoring_source": {
+      "712": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          334,
+          349
+        ]
+      },
+      "731": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          271
+        ]
+      }
+    }
+  },
+  "1173": {
+    "score": 0.35014791237595955,
+    "score_w_dosage_compensation": 0.46900062695924766,
+    "scoring_source": {
+      "712": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          334,
+          349
+        ]
+      },
+      "831": {
+        "method": "early_stop",
+        "protein": [
+          "Arg681Ter"
+        ]
+      }
+    }
+  },
+  "1171": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "712": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          334,
+          349
+        ]
+      },
+      "1339": {}
+    }
+  },
+  "1156": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "712": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          334,
+          349
+        ]
+      },
+      "1405": {}
+    }
+  },
+  "1077": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "714": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          273
+        ]
+      },
+      "1221": {}
+    }
+  },
+  "1064": {
+    "score": 0.6397701149425288,
+    "score_w_dosage_compensation": 1,
+    "scoring_source": {
+      "714": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          273
+        ]
+      },
+      "1259": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          412
+        ]
+      }
+    }
+  },
+  "1103": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "714": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          273
+        ]
+      },
+      "1381": {}
+    }
+  },
+  "1177": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "724": {
+        "method": "individual_variants",
+        "variants": [
+          {
+            "variant_id": 631
+          },
+          {
+            "variant_id": 717,
+            "characterized_in_allele_id": 749,
+            "exp_characterization_ids": [
+              424
+            ]
+          }
+        ]
+      },
+      "1256": {}
+    }
+  },
+  "1127": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "725": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          343
+        ]
+      }
+    }
+  },
+  "229": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "725": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          343
+        ]
+      },
+      "731": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          271
+        ]
+      }
+    }
+  },
+  "1172": {
+    "score": 0.7524489795918368,
+    "score_w_dosage_compensation": 1,
+    "scoring_source": {
+      "729": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          350
+        ]
+      },
+      "1259": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          412
+        ]
+      }
+    }
+  },
+  "1166": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "731": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          271
+        ]
+      },
+      "1410": {
+        "method": "early_stop",
+        "protein": [
+          "Glu328Ter"
+        ]
+      }
+    }
+  },
+  "1078": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "736": {},
+      "1369": {}
+    }
+  },
+  "272": {
+    "score": 0.024827586206896554,
+    "score_w_dosage_compensation": 0.04965517241379311,
+    "scoring_source": {
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      }
+    }
+  },
+  "1044": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      },
+      "775": {}
+    }
+  },
+  "1068": {
+    "score": 0.012413793103448277,
+    "score_w_dosage_compensation": 0.024269662921348314,
+    "scoring_source": {
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      },
+      "808": {
+        "method": "early_stop",
+        "protein": [
+          "Ser1071CysfsTer14"
+        ]
+      }
+    }
+  },
+  "1037": {
+    "score": 0.012413793103448277,
+    "score_w_dosage_compensation": 0.024269662921348314,
+    "scoring_source": {
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      },
+      "810": {
+        "method": "early_stop",
+        "protein": [
+          "Gln1513ArgfsTer13"
+        ]
+      }
+    }
+  },
+  "271": {
+    "score": 0.029195402298850575,
+    "score_w_dosage_compensation": 0.029195402298850575,
+    "scoring_source": {
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      },
+      "813": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          282
+        ]
+      }
+    }
+  },
+  "1035": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      },
+      "1339": {}
+    }
+  },
+  "1112": {
+    "score": 0.12505747126436784,
+    "score_w_dosage_compensation": 0.23659521590556076,
+    "scoring_source": {
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      },
+      "1387": {
+        "method": "characterized_allele_wo_common_variants",
+        "exp_characterization_ids": [
+          275
+        ],
+        "allele_id": 660
+      }
+    }
+  },
+  "1200": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "740": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          270
+        ]
+      },
+      "1423": {}
+    }
+  },
+  "1141": {
+    "score": 0.4,
+    "score_w_dosage_compensation": 0.4,
+    "scoring_source": {
+      "742": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          261
+        ]
+      },
+      "772": {
+        "method": "early_stop",
+        "protein": [
+          "Trp439Ter"
+        ]
+      }
+    }
+  },
+  "1189": {
+    "score": 0.4,
+    "score_w_dosage_compensation": 0.4,
+    "scoring_source": {
+      "742": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          261
+        ]
+      },
+      "858": {
+        "method": "early_stop",
+        "protein": [
+          "Tyr245Ter"
+        ]
+      }
+    }
+  },
+  "1091": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "742": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          261
+        ]
+      },
+      "1256": {}
+    }
+  },
+  "1055": {
+    "score": 0.4,
+    "score_w_dosage_compensation": 0.4,
+    "scoring_source": {
+      "742": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          261
+        ]
+      },
+      "1354": {
+        "method": "early_stop",
+        "protein": [
+          "Glu1650ArgfsTer12"
+        ]
+      }
+    }
+  },
+  "1062": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "742": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          261
+        ]
+      },
+      "1358": {}
+    }
+  },
+  "1082": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "742": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          261
+        ]
+      },
+      "1372": {}
+    }
+  },
+  "1168": {
+    "score": 0.4,
+    "score_w_dosage_compensation": 0.4,
+    "scoring_source": {
+      "742": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          261
+        ]
+      },
+      "1411": {
+        "method": "early_stop",
+        "protein": [
+          "Leu1627ArgfsTer35"
+        ]
+      }
+    }
+  },
+  "1159": {
+    "score": 0.5986206896551725,
+    "score_w_dosage_compensation": 1,
+    "scoring_source": {
+      "745": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          279
+        ]
+      }
+    }
+  },
+  "1138": {
+    "score": 0.3160919540229885,
+    "score_w_dosage_compensation": 0.5938697318007663,
+    "scoring_source": {
+      "745": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          279
+        ]
+      },
+      "813": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          282
+        ]
+      }
+    }
+  },
+  "1059": {
+    "score": 0.37931034482758624,
+    "score_w_dosage_compensation": 0.5593220338983051,
+    "scoring_source": {
+      "745": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          279
+        ]
+      },
+      "1103": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          240
+        ]
+      }
+    }
+  },
+  "83": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "746": {
+        "method": "early_stop",
+        "protein": [
+          "Arg2030Ter"
+        ]
+      }
+    }
+  },
+  "1088": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "746": {
+        "method": "early_stop",
+        "protein": [
+          "Arg2030Ter"
+        ]
+      },
+      "866": {
+        "method": "early_stop",
+        "protein": [
+          "Val1973TerfsTer1"
+        ]
+      }
+    }
+  },
+  "1122": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "746": {
+        "method": "early_stop",
+        "protein": [
+          "Arg2030Ter"
+        ]
+      },
+      "1394": {}
+    }
+  },
+  "1180": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "760": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          365
+        ]
+      },
+      "1415": {
+        "method": "early_stop",
+        "protein": [
+          "Ala1853AlafsTer11"
+        ]
+      }
+    }
+  },
+  "1084": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "774": {},
+      "1373": {}
+    }
+  },
+  "1080": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "775": {},
+      "1356": {}
+    }
+  },
+  "1124": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "790": {}
+    }
+  },
+  "1164": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "790": {},
+      "1408": {
+        "method": "early_stop",
+        "protein": [
+          "Tyr856Ter"
+        ]
+      }
+    }
+  },
+  "1027": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "792": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          362
+        ]
+      },
+      "1333": {}
+    }
+  },
+  "1135": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "806": {},
+      "1395": {
+        "method": "early_stop",
+        "protein": [
+          "Gly963AlafsTer14"
+        ]
+      }
+    }
+  },
+  "1081": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "808": {
+        "method": "early_stop",
+        "protein": [
+          "Ser1071CysfsTer14"
+        ]
+      },
+      "1371": {}
+    }
+  },
+  "1114": {
+    "score": 0.009174311926605505,
+    "score_w_dosage_compensation": 0.018181818181818184,
+    "scoring_source": {
+      "808": {
+        "method": "early_stop",
+        "protein": [
+          "Ser1071CysfsTer14"
+        ]
+      },
+      "1388": {
+        "method": "individual_variants",
+        "variants": [
+          {
+            "variant_id": 635,
+            "characterized_in_allele_id": 643,
+            "exp_characterization_ids": [
+              338
+            ]
+          },
+          {
+            "variant_id": 654,
+            "characterized_in_allele_id": 662,
+            "exp_characterization_ids": [
+              288,
+              326
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "1100": {
+    "score": 0.016781609195402298,
+    "score_w_dosage_compensation": 0.03280898876404494,
+    "scoring_source": {
+      "813": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          282
+        ]
+      },
+      "1087": {
+        "method": "early_stop",
+        "protein": [
+          "Gln635Ter"
+        ]
+      }
+    }
+  },
+  "1193": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "817": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          286
+        ]
+      },
+      "1421": {}
+    }
+  },
+  "1074": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "818": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          375
+        ]
+      },
+      "1367": {}
+    }
+  },
+  "1046": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "825": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          280
+        ]
+      },
+      "1348": {
+        "method": "early_stop",
+        "protein": [
+          "Asp586ThrfsTer63"
+        ]
+      }
+    }
+  },
+  "239": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "831": {
+        "method": "early_stop",
+        "protein": [
+          "Arg681Ter"
+        ]
+      }
+    }
+  },
+  "1158": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "831": {
+        "method": "early_stop",
+        "protein": [
+          "Arg681Ter"
+        ]
+      },
+      "1349": {}
+    }
+  },
+  "1188": {
+    "score": 0.37999999999999995,
+    "score_w_dosage_compensation": 0.4591666666666666,
+    "scoring_source": {
+      "838": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          284
+        ]
+      },
+      "858": {
+        "method": "early_stop",
+        "protein": [
+          "Tyr245Ter"
+        ]
+      }
+    }
+  },
+  "1104": {
+    "score": 0.37999999999999995,
+    "score_w_dosage_compensation": 0.7599999999999999,
+    "scoring_source": {
+      "838": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          284
+        ]
+      },
+      "865": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          281
+        ]
+      }
+    }
+  },
+  "1146": {
+    "score": 0.37999999999999995,
+    "score_w_dosage_compensation": 0.4591666666666666,
+    "scoring_source": {
+      "838": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          284
+        ]
+      },
+      "947": {
+        "method": "early_stop",
+        "protein": [
+          "Gln1292Ter"
+        ]
+      }
+    }
+  },
+  "1047": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "838": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          284
+        ]
+      },
+      "1349": {}
+    }
+  },
+  "1050": {
+    "score": 0.37999999999999995,
+    "score_w_dosage_compensation": 0.4591666666666666,
+    "scoring_source": {
+      "838": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          284
+        ]
+      },
+      "1351": {
+        "method": "early_stop",
+        "protein": [
+          "Asp342GlyfsTer6"
+        ]
+      }
+    }
+  },
+  "1187": {
+    "score": 0.8309859154929577,
+    "score_w_dosage_compensation": 0.9076923076923076,
+    "scoring_source": {
+      "841": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          441
+        ]
+      },
+      "843": {
+        "method": "early_stop",
+        "protein": [
+          "Gly317AlafsTer57"
+        ]
+      }
+    }
+  },
+  "1153": {
+    "score": 0.8309859154929577,
+    "score_w_dosage_compensation": 0.9076923076923076,
+    "scoring_source": {
+      "841": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          441
+        ]
+      },
+      "866": {
+        "method": "early_stop",
+        "protein": [
+          "Val1973TerfsTer1"
+        ]
+      }
+    }
+  },
+  "1175": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "847": {},
+      "1413": {}
+    }
+  },
+  "244": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "865": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          281
+        ]
+      }
+    }
+  },
+  "1033": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "865": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          281
+        ]
+      },
+      "933": {
+        "method": "early_stop",
+        "protein": [
+          "Arg2040Ter"
+        ]
+      }
+    }
+  },
+  "1130": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "865": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          281
+        ]
+      },
+      "1399": {
+        "method": "individual_variants",
+        "variants": [
+          {
+            "variant_id": 855,
+            "characterized_in_allele_id": 865,
+            "exp_characterization_ids": [
+              281
+            ]
+          },
+          {
+            "variant_id": 1375
+          }
+        ]
+      }
+    }
+  },
+  "218": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "866": {
+        "method": "early_stop",
+        "protein": [
+          "Val1973TerfsTer1"
+        ]
+      }
+    }
+  },
+  "1197": {
+    "score": 0.08000000000000002,
+    "score_w_dosage_compensation": 0.16000000000000003,
+    "scoring_source": {
+      "867": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          218
+        ]
+      }
+    }
+  },
+  "1109": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "871": {
+        "method": "related_allele_no_mrna",
+        "exp_characterization_ids": [
+          255
+        ],
+        "allele_id": 649
+      },
+      "1256": {}
+    }
+  },
+  "1085": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "872": {}
+    }
+  },
+  "1154": {
+    "score": 0.0,
+    "score_w_dosage_compensation": 0.0,
+    "scoring_source": {
+      "947": {
+        "method": "early_stop",
+        "protein": [
+          "Gln1292Ter"
+        ]
+      }
+    }
+  },
+  "1163": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1103": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          240
+        ]
+      },
+      "1407": {}
+    }
+  },
+  "1144": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1256": {}
+    }
+  },
+  "1093": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1259": {
+        "method": "direct",
+        "exp_characterization_ids": [
+          412
+        ]
+      },
+      "1376": {}
+    }
+  },
+  "681": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1269": {}
+    }
+  },
+  "1038": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1281": {
+        "method": "early_stop",
+        "protein": [
+          "Trp31Ter"
+        ]
+      },
+      "1342": {}
+    }
+  },
+  "1123": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1332": {},
+      "1362": {}
+    }
+  },
+  "1102": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1332": {},
+      "1380": {}
+    }
+  },
+  "1174": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1332": {},
+      "1405": {}
+    }
+  },
+  "1032": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1336": {
+        "method": "early_stop",
+        "protein": [
+          "Thr829ArgfsTer14"
+        ]
+      },
+      "1337": {}
+    }
+  },
+  "1139": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1337": {},
+      "1402": {
+        "method": "early_stop",
+        "protein": [
+          "Trp1551Ter"
+        ]
+      }
+    }
+  },
+  "1036": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1340": {
+        "method": "early_stop",
+        "protein": [
+          "Ile975LeufsTer47"
+        ]
+      },
+      "1341": {}
+    }
+  },
+  "1043": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1346": {},
+      "1347": {}
+    }
+  },
+  "1099": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1346": {},
+      "1379": {}
+    }
+  },
+  "1105": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1349": {},
+      "1382": {}
+    }
+  },
+  "1069": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1361": {},
+      "1362": {}
+    }
+  },
+  "1111": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1365": {},
+      "1386": {}
+    }
+  },
+  "1083": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1372": {}
+    }
+  },
+  "1128": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1396": {}
+    }
+  },
+  "1129": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1397": {},
+      "1398": {
+        "method": "early_stop",
+        "protein": [
+          "Asp279IlefsTer21"
+        ]
+      }
+    }
+  },
+  "1136": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1401": {}
+    }
+  },
+  "1143": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1403": {},
+      "1404": {}
+    }
+  },
+  "1182": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1416": {},
+      "1417": {}
+    }
+  },
+  "1195": {
+    "score": null,
+    "score_w_dosage_compensation": null,
+    "scoring_source": {
+      "1422": {}
+    }
+  }
+}
