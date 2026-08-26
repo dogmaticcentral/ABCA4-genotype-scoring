@@ -1,8 +1,6 @@
 # abca4_functionality_score
 
-Standalone extraction of the ABCA4 genotype functionality-score pipeline
-(`abca4_90_functionality_score/03_score_n_store.py` and its dependencies from the
-original `abca4` project), disentangled from MySQL and running on **sqlite3**.
+Standalone extraction of the ABCA4 genotype functionality-score pipeline, running on **sqlite3**.
 The scoring pipeline itself uses the Python standard library only; the
 onset-age-vs-score analysis additionally needs numpy, scipy and matplotlib.
 
@@ -46,6 +44,8 @@ matplotlib:
 ```
 git clone <this repo>
 cd abca4_functionality_score
+python3 -m venv .venv
+. .venv/bin/activate
 pip install -r requirements.txt   # numpy, scipy, matplotlib - only needed for onset_age_vs_score.py
 ```
 
@@ -54,7 +54,21 @@ directly from the repo root as shown below.
 
 ## Usage
 
-### 1. Score the genotypes in a database
+### 1. Quickstart
+
+Score genotypes, originally from [Cobos et al](https://iovs.arvojournals.org/article.aspx?articleid=2811455),
+in the provided database (in `data` directory), and plot the age of onset as a function of the scores
+```
+python3 score_n_store.py
+python3 onset_age_vs_score.py
+```
+Note that both scripts proved usage statement when give the `--help` argument on the command line
+```
+python3 score_n_store.py --help
+python3 onset_age_vs_score.py --help
+```
+
+### 2. Score the genotypes in a database
 
 ```
 python3 score_n_store.py --db path/to/database.db [--assume_dosage_compensation] [--quiet]
@@ -67,12 +81,12 @@ with the flag), and per-allele provenance into the `allele_scoring_source` table
 flag combination if you want both score columns populated:
 
 ```
-cp data/abca4_pub70_test.db /tmp/scored.db
-python3 score_n_store.py --db /tmp/scored.db
-python3 score_n_store.py --db /tmp/scored.db --assume_dosage_compensation
+cp data/abca4_pub70_test.db  path/to/new/database/scored.db
+python3 score_n_store.py --db path/to/new/database/scored.db
+python3 score_n_store.py --db path/to/new/database/scored.db --assume_dosage_compensation
 ```
 
-### 2. Plot age of onset vs score
+### 3. Plot age of onset vs score
 
 Once a database has been scored (step 1), correlate the scores with the age of
 onset recorded in `cases.onset_age`:
@@ -192,32 +206,3 @@ produced with the original MySQL-based code; finally it runs
 
 Both test files can also be run individually, e.g. `python3 -m unittest
 tests.test_onset_age_vs_score -v`, or with `pytest tests/` if pytest is installed.
-
-## Regenerating the test data
-
-Requires the original abca4 repo, its MySQL database and `~/.abca4_conf`
-(read-only on the MySQL side):
-
-```
-python3 tools/extract_test_db.py [--abca4-repo /path/to/abca4] [--publication-id 70]
-```
-
-This rewrites `data/abca4_pub<N>_test.db`, `tests/reference_scores.json` and
-`tests/reference_onset.json` from the cases of publication `<N>` in MySQL. See
-`tools/extract_test_db.py`'s docstring for exactly what closure of
-alleles/variants/experimental-characterization rows gets copied.
-
-## Notes on the port
-
-- The scoring logic in `func_score_utils.py` is verbatim from the original
-  `func_score_utlis.py`; only the imports and the `get_column_names` signature
-  (no database-name argument in sqlite) changed, and a few functions never called
-  by this pipeline (`homozygotes_exist`, `given`, the `get_raw_*` /
-  `cook_up_*` helpers) were dropped.
-- `onset_age_vs_score.py` is verbatim from `33_onset_age_vs_score.py` except:
-  sqlite connection (`--db` argument), the never-called xlsx sheet writer
-  (`_write_score_sheet` / `score_to_hex_color`) was dropped, the data collection
-  was factored into `collect_onset_age_vs_score` so the test can call it, and a
-  `-o/--out` option saves the plot to a file instead of showing it.
-- `store_or_update` keeps the original interface but uses parametrized queries.
-- MySQL stored scores as `decimal(5,2)`; sqlite stores full-precision REALs.

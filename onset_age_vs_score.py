@@ -14,6 +14,7 @@ Unlike the scoring pipeline itself, this script needs numpy, scipy and matplotli
 from __future__ import annotations
 
 import argparse
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -276,6 +277,8 @@ def parse_args():
 
 def main():
     args = parse_args()
+    if not Path(args.db).is_file():
+        sys.exit(f"database not found: {args.db}")
     score_column = "score" if args.scoring_type == "plain" else "score_w_dosage_compensation"
 
     db, cursor = connect(args.db)

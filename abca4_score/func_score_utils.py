@@ -444,6 +444,6 @@ def competence_estimate(avg_params: Dict[int, NormalizedParametrization],
     # the multiplication by 2 is so the score runs from 0 to 1 if there is a single functional allele
     # we know that should be the case because Stargardt's disease
     score = min(2 * score, 1)  # anything bigger than 0.5 is enough
-    if verbose: print(f"\t score: {score}")
+    if verbose: print(f"\t score: {score:.2f}")
     if verbose: print("==================================================\n")
     return score

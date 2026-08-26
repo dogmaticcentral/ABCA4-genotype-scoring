@@ -8,6 +8,7 @@ store it in genotypes.score (or genotypes.score_w_dosage_compensation when
 --assume_dosage_compensation is given).
 """
 import argparse
+import sys
 from datetime import date
 from pathlib import Path
 from typing import Dict, Optional
@@ -69,6 +70,8 @@ def parse_args():
 
 def main():
     args = parse_args()
+    if not Path(args.db).is_file():
+        sys.exit(f"database not found: {args.db}")
 
     db, cursor = connect(args.db)
     make_scoring_source_table_if_nonexistent(cursor)
