@@ -92,7 +92,7 @@ Once a database has been scored (step 1), correlate the scores with the age of
 onset recorded in `cases.onset_age`:
 
 ```
-python3 onset_age_vs_score.py --db /tmp/scored.db [-p 70] \
+python3 onset_age_vs_score.py --db path/to/new/database/scored.db [-p 70] \
         [-s score|score_w_dosage_compensation] \
         [-v scatter|violin|violin-basic|whisker] [-o plot.png]
 ```
